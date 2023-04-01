@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img align="center" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652.gif"  />
+<img align="center" height="150" src="FloppyHDGitHub/cute-hello-kitty.gif"  />
 
 ###
 
