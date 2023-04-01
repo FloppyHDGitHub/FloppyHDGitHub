@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652"  />
 
 ###
 
