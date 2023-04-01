@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FloppyHDGitHub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <br clear="both">
@@ -40,11 +41,11 @@
 
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="26562652" data-share-method="host" data-aspect-ratio="1.15523" data-width="100%"><a href="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652">Cute Hello Kitty GIF</a>from <a href="https://tenor.com/search/cute-gifs">Cute GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:m-witt-bmf@realcraft.lu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
