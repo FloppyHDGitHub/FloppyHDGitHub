@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652"  />
+<div class="tenor-gif-embed" data-postid="26562652" data-share-method="host" data-aspect-ratio="1.15523" data-width="100%"><a href="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652">Cute Hello Kitty GIF</a>from <a href="https://tenor.com/search/cute-gifs">Cute GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
