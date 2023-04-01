@@ -40,9 +40,9 @@
 ###
 
 <br clear="both">
-
-<img align="center" height="150" src="cute-hello-kitty.gif"  />
-
+<div align="center">
+<img align="center" height="450" src="cute-hello-kitty.gif"  />
+</div>
 ###
 
 <div align="center">
