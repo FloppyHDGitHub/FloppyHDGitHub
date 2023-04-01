@@ -39,11 +39,11 @@
 
 ###
 
-<br clear="both">
 <div align="center">
-<img align="center" height="450" src="cute-hello-kitty.gif"  />
+  <img align="center" height="450" src="cute-hello-kitty.gif"  />
 </div>
 
+###
 
 <div align="center">
   <a href="mailto:m-witt-bmf@realcraft.lu" target="_blank">
