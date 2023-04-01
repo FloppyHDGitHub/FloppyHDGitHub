@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img align="center" height="150" src="FloppyHDGitHub/cute-hello-kitty.gif"  />
+<img align="center" height="150" src="cute-hello-kitty.gif"  />
 
 ###
 
