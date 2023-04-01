@@ -22,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652.gif"  />
+<img align="center" height="150" src="https://tenor.com/view/cute-hello-kitty-nyan-cat-meme-ip-adress-gif-26562652.gif"  />
 
 ###
 
