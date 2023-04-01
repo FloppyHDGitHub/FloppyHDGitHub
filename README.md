@@ -15,12 +15,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FloppyHDGitHub/FloppyHDGitHub/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/FloppyHDGitHub/count.svg?"  />
 </div>
